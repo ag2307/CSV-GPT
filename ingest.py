@@ -84,7 +84,7 @@ def doc_load_n_split_doctype():
     }
     # Below code to define the path of document sources
 
-    doc_dir = os.path.join(os.getcwd(), "document_sources")
+    doc_dir = os.path.join(os.getcwd(), "documents")
     all_doc_dir = [doc_dir]
 
     for dirpath, dirnames, filenames in os.walk(doc_dir):
