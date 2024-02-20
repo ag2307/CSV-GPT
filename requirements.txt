@@ -1,0 +1,17 @@
+openai
+langchain
+huggingface_hub 
+tiktoken
+PyPDF2
+pypdf
+sentence_transformers
+together
+FlagEmbedding
+docx2txt
+python-dotenv
+streamlit
+chromadb
+unstructured
+llama-cpp-python
+markdown
+jq
